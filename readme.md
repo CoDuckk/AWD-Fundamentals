@@ -4,12 +4,12 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/CoDuckk/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
     <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">AWD-FUNDAMENTALS</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
@@ -20,7 +20,7 @@
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=CoDuckk/AWD-Fundamentals)
 
 [![wakatime](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8.svg)](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8)
 
@@ -62,17 +62,28 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- The AWD-Fundamentals project is a simple multipage website designed to demonstrate the foundational principles of web design and JavaScript programming. The website consists of two pages: a Landing Page and a Demo Page. These pages highlight the structure, styling, and interactivity possible with HTML, CSS, and JavaScript.
+- Showcase the basics of web design, including file structure, styling, and responsiveness.
+- Demonstrate key JavaScript concepts:
+Variables: Storing and manipulating data.
+Input/Output: Accepting user input and displaying results.
+Conditionals: Decision-making logic.
+Looping: Automating repetitive tasks.
+- HTML	Used to structure the content of the website, including headings, buttons, forms, and links.
+CSS	Used to style the website, making it visually appealing and responsive. All styles are managed through external CSS files.
+JavaScript	Adds interactivity to the Demo Page, handling user input, processing logic, and dynamically updating the content.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- The project contains two interconnected HTML pages - a Landing Page and a Demo Page.
+Landing Page:
+Provides an introduction to the project.
+Includes a button to navigate to the Demo Page.
+Demo Page:
+Demonstrates JavaScript fundamentals interactively.
+Allows users to input data, displays results, and showcases conditional logic and loops.
+Responsive Design: Ensures the website adapts to various screen sizes for better user experience.
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -101,7 +112,7 @@ WD-ProjectName
 |   └─ js
 |       └─ script.js
 └─ pages
-|  └─ pageName
+|  └─ demoPage
 |     └─ assets
 |     |  └─ css
 |     |  |  └─ style.css
@@ -119,4 +130,6 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| HTML Documentation | Reference for HTML elements and attributes. | https://developer.mozilla.org/en-US/docs/Web/HTML |
+| CSS Documentation | Reference for CSS properties and styling techniques. | https://developer.mozilla.org/en-US/docs/Web/CSS |
+| JavaScript Documentation | Guide for JavaScript fundamentals, including variables, loops, and DOM manipulation. | https://developer.mozilla.org/en-US/docs/Web/JavaScript |
